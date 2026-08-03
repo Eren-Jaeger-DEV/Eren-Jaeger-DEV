@@ -57,7 +57,7 @@ const Victor = {
 <tr>
 <td width="50%" valign="top">
 
-**Viktor Script** &nbsp;·&nbsp; private
+**Viktor Script** &nbsp;&middot;&nbsp; private
 
 A general-purpose, statically-typed language written from scratch. The compiler is written in Viktor Script itself. Compiles to native binaries via LLVM IR. Full pipeline: lexer, parser, AST, bytecode VM, LLVM emitter, stdlib, LSP, and a VS Code extension. 280+ automated tests.
 
@@ -66,7 +66,7 @@ A general-purpose, statically-typed language written from scratch. The compiler 
 </td>
 <td width="50%" valign="top">
 
-**Atlas Studio** &nbsp;·&nbsp; [public](https://github.com/Eren-Jaeger-DEV/Atlas)
+**Atlas Studio** &nbsp;&middot;&nbsp; [public](https://github.com/Eren-Jaeger-DEV/Atlas)
 
 A desktop IDE built from nothing. Multi-provider AI router, multi-agent swarm execution, GraphRAG code knowledge engine, plugin SDK, P2P collaboration over WebRTC. Studied Cursor, VS Code, and Antigravity internals to design it.
 
@@ -77,7 +77,7 @@ A desktop IDE built from nothing. Multi-provider AI router, multi-agent swarm ex
 <tr>
 <td width="50%" valign="top">
 
-**Jack-Pirates** &nbsp;·&nbsp; private
+**Jack-Pirates** &nbsp;&middot;&nbsp; private
 
 Esports AI ecosystem for a competitive gaming clan. Runs simultaneously on Discord, Telegram, WhatsApp, Twitch, and a REST API. Flutter companion app live at app.mceclipsehub.online. 87+ commands.
 
@@ -86,7 +86,7 @@ Esports AI ecosystem for a competitive gaming clan. Runs simultaneously on Disco
 </td>
 <td width="50%" valign="top">
 
-**Kiri** &nbsp;·&nbsp; private
+**Kiri** &nbsp;&middot;&nbsp; private
 
 An AI that does not wait to be spoken to. Persistent vector memory, dynamic emotion engine, proactive interaction loop, and a WhatsApp bridge that mimics real human typing delays and presence.
 
@@ -97,7 +97,7 @@ An AI that does not wait to be spoken to. Persistent vector memory, dynamic emot
 <tr>
 <td width="50%" valign="top">
 
-**India Procurement Watch** &nbsp;·&nbsp; [public](https://github.com/Eren-Jaeger-DEV/India-Procurement-Watch)
+**India Procurement Watch** &nbsp;&middot;&nbsp; [public](https://github.com/Eren-Jaeger-DEV/India-Procurement-Watch)
 
 Anti-corruption analytics dashboard over Indian public procurement data. ML risk engine, graph-theory cartel detection, OpenSanctions PEP cross-referencing, and a natural language to SQL AI desk.
 
@@ -106,7 +106,7 @@ Anti-corruption analytics dashboard over Indian public procurement data. ML risk
 </td>
 <td width="50%" valign="top">
 
-**Botopia** &nbsp;·&nbsp; private
+**Botopia** &nbsp;&middot;&nbsp; private
 
 A lore-driven collectible RPG Discord bot. Wild bots spawn based on server activity. Players race to catch them. Full RPG stat system, dual currency, auctions, PvP duels, spectator betting.
 
@@ -118,13 +118,10 @@ A lore-driven collectible RPG Discord bot. Wild bots spawn based on server activ
 
 ---
 
-### Stats
+### Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eren-Jaeger-DEV&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=f59e0b&icon_color=f59e0b&text_color=a8a29e&rank_icon=github&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-Jaeger-DEV&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=f59e0b&text_color=a8a29e&langs_count=6" height="160"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eren-Jaeger-DEV&bg_color=0d0d0d&color=f59e0b&line=d97706&point=f59e0b&area=true&area_color=f59e0b&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
