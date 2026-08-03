@@ -118,16 +118,6 @@ A lore-driven collectible RPG Discord bot. Wild bots spawn based on server activ
 
 ---
 
-### Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eren-Jaeger-DEV&bg_color=0d0d0d&color=f59e0b&line=d97706&point=f59e0b&area=true&area_color=f59e0b&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Eren-Jaeger-DEV&hide_border=true&background=0d0d0d&ring=f59e0b&fire=d97706&currStreakLabel=f59e0b&sideLabels=a8a29e&dates=57534e&currStreakNum=f5f5f4&sideNums=f5f5f4" width="55%"/>
-</div>
-
 ---
 
 ### Contributions
